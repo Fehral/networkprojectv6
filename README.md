@@ -20,6 +20,12 @@ Access Control Lists
       *  network system ACLs establish permissions for users to access networks or subnetworks, similar to a firewall
       *  standard ACLs deny or grant access via source IP addresses, usually placed closer to destination systems/resources
       *  extended ACLs deny or grant access via a more granular statement of source and destination IP addresses and port numbers, usually placed closer to source system/resource
+   
+Port Address Translation
+  * networking system that allows multiple devices to use the same public IP address utilizing different port numbers
+      * an extensible feature of Network Address Translation
+      * helps to conserve IPv4 addresses
+      * enhances network security by obscuring private IP addresses from public networks
   
 <p align=center>
   <ins>Banking Network Topology</ins>
